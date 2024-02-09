@@ -19,7 +19,7 @@
     "author": "Abhilash D K",
     "repository": {
       "type": "git",
-      "url": "git+"
+      "url": "git+https://github.com/abhilashdk2016/ms-shared.git"
     },
     "publishConfig": {
       "registry": "https://npm.pkg.github.com"
